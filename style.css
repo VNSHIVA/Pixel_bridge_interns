@@ -491,3 +491,68 @@ body{
 .v3{
     margin-left: -75px;
 }
+.earn{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    justify-content: space-around;
+}
+.earn-title, .earn-desc{
+    margin-left: 400px;
+}
+.earn-desc{
+    opacity: 0.8;
+}
+.zomi-earn{
+    width: 600px;
+    margin-left: 400px;
+    font-size: 8px;
+    border: 1px solid #6b6969;
+    border-radius: 5px;
+}
+.earn-box2{
+    margin-left: 20px;
+}  
+.sep3{
+    width: 599px;
+    border: 1px solid #6b6969;
+    margin-bottom: 5px;
+}
+.row-e{
+    opacity: 0.5;
+    margin-left: 15px;
+}
+.row-e-val{
+    margin-right: 15px;
+    font-size: 15px;
+}
+.bx-title{
+    margin-left: 15px;
+}
+.btn-earn{
+    width: 150px;
+    border-radius: 5px ;
+    margin-left: 5px;
+    font-size: 15px;
+    height: 40px;
+    margin-bottom: 5px;
+}
+.boxes-e{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.vest{
+    margin-left: 400px;
+    text-align: left;
+}
+.vest-box{
+    margin-left: 0px;
+}
+.links-e{
+    color: white;
+}
+.vest{
+    margin-bottom: 120px;
+}
